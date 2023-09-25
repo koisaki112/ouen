@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+.button-grup{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.button-grup img{
+    width: 50%;
+    height: auto;
+    margin-top: 30%;
+    cursor: pointer;
+}
